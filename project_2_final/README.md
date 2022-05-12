@@ -37,8 +37,8 @@ Please refer to the following page for a comprehensive documentation of the data
 
 This project is organised into two notebooks: 
 
-* Notebook 1 : Exploratory Data Analysis & Data Cleaning
-* Notebook 2: Data Preprocessing & Modelling
+- Notebook 1 : Exploratory Data Analysis & Data Cleaning
+- Notebook 2: Data Preprocessing & Modelling
 
 
 ## Summary of Analysis
@@ -84,3 +84,6 @@ Our property agents in the city can advise their clients on the following:
 * To address the right-skewedness of sale price distribution by normalizing it. 
 * To explore other hyperparameter tuning methods to improve the R2 and RMSE scores of lasso regression. 
 * To use the top predictors identified in Lasso regression and re-fit this subset data on the selected model. 
+## Kaggle Prediction Results
+
+![image2](images/submission_v5.png)
