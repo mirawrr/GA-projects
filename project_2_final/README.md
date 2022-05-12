@@ -37,8 +37,8 @@ Please refer to the following page for a comprehensive documentation of the data
 
 This project is organised into two notebooks: 
 
-![Notebook 1 : Exploratory Data Analysis & Data Cleaning](Project 2 - Notebook Part 1 - Amira - Final.ipynb)
-![Notebook 2: Data Preprocessing & Modelling](Project 2 - Notebook Part 2 - Amira - Final.ipynb)
+Notebook 1 : Exploratory Data Analysis & Data Cleaning
+Notebook 2: Data Preprocessing & Modelling
 
 
 ## Summary of Analysis
