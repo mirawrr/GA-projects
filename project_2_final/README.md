@@ -37,8 +37,8 @@ Please refer to the following page for a comprehensive documentation of the data
 
 This project is organised into two notebooks: 
 
-Notebook 1 : Exploratory Data Analysis & Data Cleaning
-Notebook 2: Data Preprocessing & Modelling
+* Notebook 1 : Exploratory Data Analysis & Data Cleaning
+* Notebook 2: Data Preprocessing & Modelling
 
 
 ## Summary of Analysis
